@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="400"/>
 </div>
 
-<div align="center"> :star: :ringed_planet: :stars: :milky_way: :star2: :waning_crescent_moon: :earth_americas: </div>
+<div align="center"> :star: :ringed_planet: :stars: :milky_way: :infinity: :star2: :waning_crescent_moon: :earth_americas: </div>
 
 --- 
 
@@ -34,7 +34,7 @@
 
 ---
 
-### :fire: Feli in numbers :
+### :bar_chart: Feli in numbers :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felipeihf&theme=dark&background=000000)](https://git.io/streak-stats)
 
