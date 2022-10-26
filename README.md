@@ -16,8 +16,9 @@
 
 - 👋 Hi, I’m Feli!
 - 👀 I work as a QA Automation Engineer / SDET... kinda. I've done a few things.
-- 🌱 Currently learning about AWS's Cloud to achieve an AWS Developer Associate certification, while practicing automation every once in a while to not become dull 
-- 💞️ Any tips, feedback or PRs on my code would be mostly appreciated!
+- 🌱 Currently learning about AWS's Cloud to achieve an AWS Developer Associate certification, while practicing automation every once in a while to not become dull
+- 🚀 My goal is to become a Cloud Engineer/Architect by the end of 2023, so I hope this repo will serve as a roadmap of things I'll learn along the way
+- 💞️ Any tips, feedback or PRs on my code would be mostly appreciated! I intend to start from small Developer project to scale into fully-fledged Cloud projects.
 - 📫 You can reach me through the Linkedin button at the beggining of this readme ^^ cheers
 ---
 
