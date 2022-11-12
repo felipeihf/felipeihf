@@ -15,10 +15,10 @@
 ---
 
 - 👋 Hi, I’m Feli!
-- 👀 I work as a QA Automation Engineer / SDET... kinda. I've done a few things.
-- 🌱 Currently learning about AWS's Cloud to achieve an AWS Developer Associate certification, while practicing automation every once in a while to not become dull
-- 🚀 My goal is to become a Cloud Engineer/Architect, so I hope this repo will serve as a roadmap of things I'll learn along the way to achieve that objective.
-- 💞️ Any tips, feedback or PRs on my code would be mostly appreciated! I intend to start from small Developer projects to scale into fully-fledged Cloud projects.
+- 👀 I work as a QA Engineer / SDET... kinda (?) Many roles/responsibilities, but always moving around the QA side of things.
+- 🌱 Currently learning about Software Development (hands-on SDLC and STLC) from the most basic stuff to participating in bottom-up software projects as a whole.
+- 🚀 My goal is to make Test Automation projects from scratch on my own, so I hope this repo will serve as a roadmap of things I'll learn to get there.
+- 💞️ Any tips, feedback or PRs on my code would be mostly appreciated!
 - 📫 You can reach me through the Linkedin button at the beggining of this readme ^^ cheers
 ---
 
