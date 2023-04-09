@@ -15,9 +15,9 @@
 ---
 
 - 👋 Hi, I’m Feli!
-- 👀 I work as a QA Engineer / SDET... kinda (?) Many roles/responsibilities, but always moving around the QA side of things.
+- 👀 I work as a QA Engineer / SDET... kinda (?) Many roles/responsibilities, but always moving around the QA side of things. I want to become a Cloud Engineer!
 - 🌱 Currently learning about Software Development (hands-on SDLC and STLC) from the most basic stuff to participating in bottom-up software projects as a whole.
-- 🚀 My goal is to make Test Automation projects from scratch on my own, so I hope this repo will serve as a roadmap of things I'll learn to get there.
+- 🚀 My goal is to make different projects on my own from zero, and I'll document some of them here. These projects will consist of challenges and more.
 - 💞️ Any tips, feedback or PRs on my code would be mostly appreciated!
 - 📫 You can reach me through the Linkedin button at the beggining of this readme ^^ cheers
 ---
